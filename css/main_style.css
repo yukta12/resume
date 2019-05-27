@@ -1064,3 +1064,16 @@
 	background:rgba(0,0,0,0.5);
 }
 
+.btn a{
+    color: #000;
+    font-weight: bold;
+}
+.btn{
+    color: #333; !important
+    background: #fff;
+    border: solid 1px #333;
+    width: 25%;
+    align-content: center;
+    padding: 2%;
+    margin: 5%;
+}
