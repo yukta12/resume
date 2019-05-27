@@ -1077,3 +1077,9 @@
     padding: 2%;
     margin: 5%;
 }
+@media(max-width:768px){
+    .btn{
+        width: 80%;
+        
+    }
+}
