@@ -144,6 +144,10 @@
 	.lx-social-media ul{
 		margin:10px;
 	}
+    .lx-main-menu ul li a i{
+        font-size: 30px;
+    }
+    
 }
 .lx-social-media ul li{
 	margin:10px 0px;
