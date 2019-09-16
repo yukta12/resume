@@ -134,7 +134,6 @@
 	margin:5px auto;
 	font-size:38px;
 }
-
 /* Social Media */
 .lx-social-media ul{
 	float:right;
@@ -170,7 +169,10 @@
 	transition: all 0.3s;
 }
 .lx-social-media ul li a:hover{
-	background:rgba(0,0,0,0.5);
+	background:#fff;
+/*    color:rgba(0,0,0,0.5)!important; */
+    border: solid 2px #fff;
+   
 }
 
 /* Home */
@@ -259,7 +261,9 @@
 	}
 }
 .lx-home-buttons a:hover{
-	background:rgba(0,0,0,0.7);
+	background:#fff;
+    color: #000;
+    font-weight: bold;
 }
 
 /* Main Blocs */
