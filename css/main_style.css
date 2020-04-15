@@ -323,6 +323,7 @@
 /* Blocs Content */
 .lx-blocs-content{
 	overflow:scroll !important;
+	-webkit-overflow-scrolling: auto;
 	padding:60px;
 }
 @media(max-width:768px){
@@ -1029,6 +1030,7 @@
 		width:100%;
 		height:267px;
 		overflow:scroll; !important;
+		-webkit-overflow-scrolling: auto;
 	}
 }
 .lx-side-bar{
